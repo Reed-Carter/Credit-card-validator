@@ -13,7 +13,7 @@
 
 ## Description
 
-This is a website that validates credit cards. A complete repository can be found here: https://epicenter.epicodus.com/courses/1068/code_reviews/6793
+This is a website that validates credit cards. A complete repository can be found here: https://github.com/Reed-Carter/Credit-card-validator
 
 ## Setup/Installation Requirements
 
